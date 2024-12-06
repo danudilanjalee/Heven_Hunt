@@ -34,7 +34,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a class="nav-link" href="Home.php">Home</a></li> <!-- Link to Home -->
+                <li class="nav-item"><a class="nav-link" href="home.php">Home</a></li> <!-- Link to Home -->
                 <li class="nav-item"><a class="nav-link" href="#listings">Listings</a></li>
                 <li class="nav-item"><a class="nav-link" href="#lands">Lands</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li> <!-- Link to Contact -->
